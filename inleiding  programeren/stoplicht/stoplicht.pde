@@ -1,7 +1,7 @@
-// Grootte van het canvas
+// Grootte 
 size(500, 750);
 
-// Achtergrond van de verkeerslicht-behuizing (zwart)
+// Achtergrond van de verkeerslichtbehuizing zwart
 fill(0, 0, 0);
 rect(150, 100, 200, 450); // x, y, breedte, hoogte
 
